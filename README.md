@@ -1,4 +1,4 @@
-# Sartorius cell classification with Convolutional neural network (CNN)-2
+# Sartorius cell classification with Convolutional Neural Network (CNN)-2
 
 ## Project Overview
 ### Introduction
