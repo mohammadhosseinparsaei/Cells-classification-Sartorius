@@ -9,6 +9,9 @@ The dataset is organized into two main directories: `livecell_train_val_images` 
 To create a comprehensive dataset for training, images from the 9 cellular class directories within the `livecell_train_val_images` directory were combined with images from the corresponding directories within the `livecell_test_images` directory. This consolidation resulted in a larger dataset suitable for model training. Subsequently, **10%** of the combined data was randomly sampled and set aside for **testing purposes**.
 ### Data Access
 The data is accessible and downloadable from [here](https://www.kaggle.com/competitions/sartorius-cell-instance-segmentation/data).
+**Reference:**
+- Addison Howard, Ashley Chow, CorporateResearchSartorius, Maria Ca, Phil Culliton, Tim Jackson. [Sartorius - Cell Instance Segmentation](https://kaggle.com/competitions/sartorius-cell-instance-segmentation). Kaggle (2021).
+
 ### Tools and Libraries Used
 - Jupyter
 - numpy 1.19.2
