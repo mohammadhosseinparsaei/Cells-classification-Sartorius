@@ -27,5 +27,5 @@ The data is accessible and downloadable from [here](https://www.kaggle.com/compe
 ![Loss plot](https://github.com/mohammadhosseinparsaei/Cells-classification-Sartorius/blob/main/loss_plot.png)
 #### Accuracy Plot
 ![Accuracy Plot](https://github.com/mohammadhosseinparsaei/Cells-classification-Sartorius/blob/main/accuracy_plot.png)
-#### Confusion Matrix
+#### Normalize Confusion Matrix
 ![Confusion Matrix](https://github.com/mohammadhosseinparsaei/Cells-classification-Sartorius/blob/main/confusion_matrix.png)
