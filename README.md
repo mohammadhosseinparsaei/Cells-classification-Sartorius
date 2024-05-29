@@ -7,6 +7,7 @@ This project aims to classify images of various cellular classes provided by Sar
 The dataset is organized into two main directories: `livecell_train_val_images` and `livecell_test_images`. Each of these directories contains images of the aforementioned cellular classes. Specifically, within each directory, there are 9 subdirectories corresponding to the cell types mentioned earlier.
 ### Data Access
 The data is accessible and downloadable from [here](https://www.kaggle.com/competitions/sartorius-cell-instance-segmentation/data).
+
 **Reference:**
 - Addison Howard, Ashley Chow, CorporateResearchSartorius, Maria Ca, Phil Culliton, Tim Jackson. [Sartorius - Cell Instance Segmentation](https://kaggle.com/competitions/sartorius-cell-instance-segmentation). Kaggle (2021).
 
